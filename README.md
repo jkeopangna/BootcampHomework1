@@ -1,2 +1,2 @@
-# BootcampHomework1
-Homework assignment
+# BootcampHomework
+Homework assignments
