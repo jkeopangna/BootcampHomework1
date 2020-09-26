@@ -9,6 +9,7 @@ The diversity and creativity of the ever-growing world in coding can produce cou
 
 With the changes listed above, the application functions and appears as shown with the image and link provided.
 
-[Screenshot1](assets/images/Screenshot1.png "Horiseon")
+![Screenshot1](assets/images/Screenshot1.png)
+![Screenshot2](assets/images/Screenshot2.png)
 
 [Horiseon Marketing](https://jkeopangna.github.io/BootcampHomework1/ "Horiseon Marketing")
