@@ -9,4 +9,4 @@ The diversity and creativity of the ever-growing world in coding can produce cou
 
 With the changes listed above, the application functions and appears as shown with the image and link provided.
 
-(https://jkeopangna.github.io/BootcampHomework1/ "Horiseon Marketing")
+[Horiseon Marketing](https://jkeopangna.github.io/BootcampHomework1/ "Horiseon Marketing")
